@@ -14,6 +14,10 @@
 /overig/
 /docs/
 
+# Volledige, ongecondenseerde versie van methodology_notes.md — bewaard als eigen
+# naslagwerk, niet bedoeld om te delen
+/notes/methodology_notes_full_backup.md
+
 # Python
 __pycache__/
 *.py[cod]
