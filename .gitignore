@@ -1,0 +1,37 @@
+# Data — volledig uitgesloten voorlopig; later evt. specifieke .md-rapporten in results/ heroverwegen
+/data/raw/
+/data/processed/
+/results/
+
+# OpenFace-installatiemappen (binaries, geen projectcode)
+/OpenFace/
+**/OpenFace_*_win_x64/
+
+# Exploratief scratchpad: bevat een 8GB virtual environment + modelgewichten, hoort nooit in git
+/scratchpad_video_tools/
+
+# Persoonlijke documenten — apart te heroverwegen
+/overig/
+/docs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+.env
+.coverage
+
+# Editor
+.vscode/
+.idea/
