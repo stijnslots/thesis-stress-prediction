@@ -1,21 +1,20 @@
-# Data — volledig uitgesloten voorlopig; later evt. specifieke .md-rapporten in results/ heroverwegen
+# Data, volledig uitgesloten voorlopig
 /data/raw/
 /data/processed/
 /results/
 
-# OpenFace-installatiemappen (binaries, geen projectcode)
+# OpenFace-installatiemappen
 /OpenFace/
 **/OpenFace_*_win_x64/
 
-# Exploratief scratchpad: bevat een 8GB virtual environment + modelgewichten, hoort nooit in git
+# Exploratief scratchpad
 /scratchpad_video_tools/
 
-# Persoonlijke documenten — apart te heroverwegen
+# Persoonlijke documenten
 /overig/
 /docs/
 
-# Volledige, ongecondenseerde versie van methodology_notes.md — bewaard als eigen
-# naslagwerk, niet bedoeld om te delen
+# Volledige, ongecondenseerde versie van methodology_notes.md, bewaard als eigen kladwerk
 /notes/methodology_notes_full_backup.md
 
 # Python
